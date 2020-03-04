@@ -1,4 +1,6 @@
 {
+"Users": [
+{
   "0" : {
     "ADVICENO" : "",
     "AUTOMANUAL" : "",
@@ -4408,5 +4410,6 @@
     "bankcode" : "",
     "costcode" : 0,
     "vacode" : 1460
-  },
+  }  
+]
 }
